@@ -3,7 +3,7 @@
 
 A simple and intuitive web-based drawing application that allows users to create freehand drawings with different colors and brush sizes. 
 
-![Drawing App Screenshot](screenshot1.png)
+![Drawing App Screenshot](screenshot.png)
 
 ## Features
 
